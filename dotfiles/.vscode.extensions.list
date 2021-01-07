@@ -2,8 +2,10 @@ code --install-extension dbaeumer.vscode-eslint
 code --install-extension GitHub.github-vscode-theme
 code --install-extension kube.theme-kay
 code --install-extension mgmcdermott.vscode-language-babel
+code --install-extension ms-azuretools.vscode-docker
 code --install-extension ms-python.python
 code --install-extension ms-toolsai.jupyter
 code --install-extension PKief.material-icon-theme
+code --install-extension redhat.vscode-yaml
 code --install-extension ritwickdey.LiveServer
 code --install-extension yzhang.markdown-all-in-one

@@ -1,9 +1,9 @@
 {
-  "editor.fontFamily": "JetBrains Mono NL, Source Code Pro, Consolas, 'Courier New', monospace",
+  "editor.fontFamily": "SF Mono, JetBrains Mono NL, Source Code Pro, Consolas, 'Courier New', monospace",
   "editor.minimap.enabled": false,
   "files.eol": "\n",
   "editor.tabSize": 2,
   "workbench.startupEditor": "none",
-  "workbench.colorTheme": "Kay Light",
+  "workbench.colorTheme": "GitHub Dark",
   "workbench.iconTheme": "material-icon-theme"
 }

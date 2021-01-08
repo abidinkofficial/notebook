@@ -68,9 +68,9 @@ ReactDOM.render(
   document.getElementById('root')
 );
 ```
-### app.js
+### App.js
 ```javascript
-// app.js
+// App.js
 import React from 'react';
 import { connect } from 'react-redux';
 

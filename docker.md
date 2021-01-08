@@ -4,23 +4,23 @@
 
 Let's assume that we need to run two applications in isolation from each other.
 
-#### Bare-metal
+#### 🖥 Bare-metal
 
 ```server = linux + libraries + app #1```
 
 ```server = linux + libraries + app #2```
 
-#### Virtualization
+#### 💽 Virtualization
   
 ```server = hypervisor + [ linux + libraries + app #1 ] + [ linux + libraries + app #2 ]```
 
-#### Container (thanks to namespaces and control groups)
+#### 📦 Container (thanks to namespaces and control groups)
   
 ```server = linux + [ libraries + app #1 ] + [ libraries + app #2 ]```
   
 *The containers looks good but they are very difficult to manage.*
 
-#### Docker
+#### 🐳 Docker
   
 ```server = linux + docker + [ libraries + app #1 ] + [ libraries + app #2 ]```
 

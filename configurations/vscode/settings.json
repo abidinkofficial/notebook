@@ -1,0 +1,21 @@
+{
+  "editor.fontFamily": "SF Mono, Consolas, 'Courier New', monospace",
+  "editor.minimap.enabled": false,
+  "files.eol": "\n",
+  "editor.tabSize": 2,
+  "workbench.startupEditor": "none",
+  "workbench.colorTheme": "GitHub Dark",
+  "workbench.iconTheme": "material-icon-theme",
+  "liveSassCompile.settings.formats":[
+    {
+        "format": "compressed",
+        "extensionName": ".min.css",
+        "savePath": "/css/"
+    },
+    {
+        "format": "expanded",
+        "extensionName": ".css",
+        "savePath": "/css/"
+    }
+  ]
+}

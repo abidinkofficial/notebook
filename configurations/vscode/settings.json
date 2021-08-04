@@ -1,11 +1,16 @@
 {
-  "editor.fontFamily": "SF Mono, Consolas, 'Courier New', monospace",
+  "editor.fontFamily": "SF Mono, Consolas, monospace",
   "editor.minimap.enabled": false,
   "files.eol": "\n",
   "editor.tabSize": 2,
   "workbench.startupEditor": "none",
+  "workbench.editor.untitled.hint": "hidden",
   "workbench.colorTheme": "GitHub Dark",
   "workbench.iconTheme": "material-icon-theme",
+  "telemetry.enableCrashReporter": false,
+  "telemetry.enableTelemetry": false,
+  "workbench.enableExperiments": false,
+  "workbench.settings.enableNaturalLanguageSearch": false,
   "liveSassCompile.settings.formats":[
     {
         "format": "compressed",

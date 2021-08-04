@@ -1,29 +1,27 @@
 # Visual Studio Code extensions
 
 ## Web & JS:
-`dbaeumer.vscode-eslint`
+ESLint: `dbaeumer.vscode-eslint`
 
-`mgmcdermott.vscode-language-babel`
+Babel JavaScript: `mgmcdermott.vscode-language-babel`
 
-`ritwickdey.LiveServer`
+Live Server: `ritwickdey.LiveServer`
 
-`ritwickdey.live-sass`
+Live Sass Compiler: `ritwickdey.live-sass`
 
 ## Themes:
-`GitHub.github-vscode-theme`
+GitHub Theme: `GitHub.github-vscode-theme`
 
-`kube.theme-kay`
+Material Icon Theme: `PKief.material-icon-theme`
 
-`PKief.material-icon-theme`
+## Other tools:
 
-## Others:
+GitLens: `eamodio.gitlens`
 
-`yzhang.markdown-all-in-one`
+Markdown All in One: `yzhang.markdown-all-in-one`
 
-`ms-python.python`
+Python: `ms-python.python`
 
-`ms-toolsai.jupyter`
+Docker: `ms-azuretools.vscode-docker`
 
-`ms-azuretools.vscode-docker`
-
-`redhat.vscode-yaml`
+YAML: `redhat.vscode-yaml`
